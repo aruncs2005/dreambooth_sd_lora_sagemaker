@@ -1,0 +1,10 @@
+protobuf<=3.20.1
+pyyaml
+accelerate
+torchvision
+transformers>=4.25.1
+ftfy
+tensorboard
+Jinja2
+diffusers
+datasets
